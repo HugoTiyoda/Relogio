@@ -1,6 +1,5 @@
 Relógio com interface gráfica de usuário feito em java swing. 
 Metodo main na classe "Execute.java".
-Toda lógica e aprendizado do projeto foi baseada no canal BroCode. Link do video: https://youtu.be/U63PV3u4aeQ 
 
 
 Screenshot: 
